@@ -13,6 +13,9 @@ int solution(vector<vector<int>> board)
         for (int y = 0; y < n; y++)
         {
             if (board[x][y] == 1)
+            {
+                board[x - 1][y - 1]
+            }
         }
     }
     return answer;
