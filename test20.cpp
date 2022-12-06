@@ -14,7 +14,7 @@ int solution(vector<vector<int>> board)
         {
             if (board[x][y] == 1)
             {
-                board[x - 1][y - 1]
+                if ()
             }
         }
     }
